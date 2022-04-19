@@ -427,7 +427,7 @@ img {
 		display: block;
 		text-transform: capitalize;
 		font-family: 'Dancing Script', cursive;}
-.actions p span em{font-size:22px;}
+.actions p span em{font-size:22px;float:right;}
 .dance-med {
 	font-family: 'Dancing Script', cursive;
 	font-weight: bolder;
